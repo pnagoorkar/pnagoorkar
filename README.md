@@ -23,6 +23,10 @@ An extension for Baubit integrating the Autofac Inversion of Control (IoC) conta
 
 Provides integration between Baubit and xUnit, facilitating easier and more structured unit testing for applications built with Baubit.
 
+### [fluent-results](https://github.com/pnagoorkar/fluent-results)
+
+A tiny, dependency‑free generic helper for composing success/failure pipelines in JavaScript & TypeScript.
+
 ## Open Source Contributions
 
 - **Autofac.Configuration**: Contributed to module construction improvements, enhancing the flexibility of Autofac's configuration capabilities. 
