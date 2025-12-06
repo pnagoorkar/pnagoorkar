@@ -1,6 +1,6 @@
 # Prashant Nagoorkar
 
-.NET developer building modular, high-performance libraries. Atlanta, GA.
+Doing my bit to eliminate repetition of effort in software engineering.
 
 ---
 
