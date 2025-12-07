@@ -14,6 +14,7 @@ A modular ecosystem for .NET applications. Configuration-driven composition, res
 |---------|-------------|
 | [![NuGet](https://img.shields.io/nuget/v/Baubit.DI.svg)](https://www.nuget.org/packages/Baubit.DI/)<br/>[**Baubit.DI**](https://github.com/pnagoorkar/Baubit.DI) | Modularity framework with configuration-driven module composition |
 | [![NuGet](https://img.shields.io/nuget/v/Baubit.Configuration.svg)](https://www.nuget.org/packages/Baubit.Configuration/)<br/>[**Baubit.Configuration**](https://github.com/pnagoorkar/Baubit.Configuration) | Type-safe configuration builder with Result pattern and environment variable expansion |
+| [![NuGet](https://img.shields.io/nuget/v/Baubit.DI.Autofac.svg)](https://www.nuget.org/packages/Baubit.DI.Autofac/)<br/>[**Baubit.DI.Autofac**](https://github.com/pnagoorkar/Baubit.DI.Autofac) | Autofac support for Baubit.DI |
 
 ### High Performance
 
@@ -47,7 +48,6 @@ A modular ecosystem for .NET applications. Configuration-driven composition, res
 | [![NuGet](https://img.shields.io/nuget/v/Baubit.Caching.DI.svg)](https://www.nuget.org/packages/Baubit.Caching.DI/)<br/>[**Baubit.Caching.DI**](https://github.com/pnagoorkar/Baubit.Caching.DI) | DI modules for Baubit.Caching |
 | [![NuGet](https://img.shields.io/nuget/v/Baubit.Caching.LiteDB.DI.svg)](https://www.nuget.org/packages/Baubit.Caching.LiteDB.DI/)<br/>[**Baubit.Caching.LiteDB.DI**](https://github.com/pnagoorkar/Baubit.Caching.LiteDB.DI) | DI modules for Baubit.Caching.LiteDB |
 | [![NuGet](https://img.shields.io/nuget/v/Baubit.Mediation.DI.svg)](https://www.nuget.org/packages/Baubit.Mediation.DI/)<br/>[**Baubit.Mediation.DI**](https://github.com/pnagoorkar/Baubit.Mediation.DI) | DI modules for Baubit.Mediation |
-| [![NuGet](https://img.shields.io/nuget/v/Baubit.Autofac.svg)](https://www.nuget.org/packages/Baubit.Autofac/)<br/>[**Baubit.Autofac**](https://github.com/pnagoorkar/Baubit.Autofac) | Autofac container integration |
 
 ### Testing
 
