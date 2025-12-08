@@ -1,7 +1,6 @@
 # Prashant Nagoorkar
 
-Doing my bit improve modularity in software systems.<br/><br/>
-[View my blog](https://baubit.net/blog)
+Doing my bit improve modularity in software systems.
 
 ---
 
